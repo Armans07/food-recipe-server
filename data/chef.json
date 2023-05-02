@@ -1,0 +1,60 @@
+[{
+    "id": 1,
+    "chef_name": "Gordon Ramsay",
+    "years_of_experience": 30,
+    "num_of_recipes": 200,
+    "likes": 5000,
+    "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has over 30 years of experience in the culinary industry, and has earned 16 Michelin stars throughout his career. He is known for his fiery personality and has hosted several cooking shows such as Hell's Kitchen and MasterChef.",
+    "picture": "https://example.com/gordon-ramsay.jpg"
+  }
+  ,
+  {
+    "id": 2,
+    "chef_name": "Ina Garten",
+    "years_of_experience": 40,
+    "num_of_recipes": 150,
+    "likes": 3000,
+    "description": "Ina Garten is an American chef, author, and television personality. She has over 40 years of experience in the culinary industry and is known for her simple yet elegant cooking style. She has hosted several cooking shows such as Barefoot Contessa and has authored several cookbooks.",
+    "picture": "https://example.com/ina-garten.jpg"
+  }
+  ,
+  {
+    "id": 3,
+    "chef_name": "Anthony Bourdain",
+    "years_of_experience": 28,
+    "num_of_recipes": 75,
+    "likes": 2000,
+    "description": "Anthony Bourdain was an American chef, author, and television personality. He had over 28 years of experience in the culinary industry and was known for his adventurous approach to food. He hosted several cooking shows such as No Reservations and Parts Unknown and authored several books.",
+    "picture": "https://example.com/anthony-bourdain.jpg"
+  }
+  ,
+  {
+    "id": 4,
+    "chef_name": "Julia Child",
+    "years_of_experience": 50,
+    "num_of_recipes": 100,
+    "likes": 4000,
+    "description": "Julia Child was an American chef, author, and television personality. She had over 50 years of experience in the culinary industry and is credited with bringing French cuisine to the American public. She hosted several cooking shows such as The French Chef and authored several cookbooks.",
+    "picture": "https://example.com/julia-child.jpg"
+  }
+  ,
+  {
+    "id": 5,
+    "chef_name": "Jamie Oliver",
+    "years_of_experience": 25,
+    "num_of_recipes": 300,
+    "likes": 6000,
+    "description": "Jamie Oliver is a British chef, restaurateur, and television personality. He has over 25 years of experience in the culinary industry and is known for his focus on healthy and sustainable cooking. He has hosted several cooking shows such as The Naked Chef and authored several cookbooks.",
+    "picture": "https://example.com/jamie-oliver.jpg"
+  }
+  ,
+  {
+    "id": 6,
+    "chef_name": "Nigella Lawson",
+    "years_of_experience": 20,
+    "num_of_recipes": 120,
+    "likes": 2500,
+    "description": "Nigella Lawson is a British chef, author, and television personality. She has over 20 years of experience in the culinary industry and is known for her indulgent and comforting cooking style. She has hosted several cooking shows such as Nigella Bites and authored several cookbooks.",
+    "picture": "https://example.com/nigella-lawson.jpg"
+  }]
+  
