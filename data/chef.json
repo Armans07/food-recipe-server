@@ -5,7 +5,33 @@
     "num_of_recipes": 200,
     "likes": 5000,
     "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has over 30 years of experience in the culinary industry, and has earned 16 Michelin stars throughout his career. He is known for his fiery personality and has hosted several cooking shows such as Hell's Kitchen and MasterChef.",
-    "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr"
+    "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr",
+    "recipes": [
+        {
+          "name":"Chingri Macher Malaikari" ,
+          "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+          "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+          "recipe_img": "https://www.licious.in/blog/wp-content/uploads/2021/06/Shutterstock_1585483462.jpg",
+          "ratings": 4.2,
+          "likes": 2000
+        },
+        {
+            "name":"Bhuna Khichuri",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://pikturenama.com/wp-content/uploads/2019/10/with-logo-Bhuni-Khichuri-4.jpg",
+            "ratings": 4.9,
+            "likes": 2000
+          },
+        {
+            "name":"Shorshe Ilish",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients":["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://lh6.ggpht.com/-luvg-6ZTOU8/Tg-n816jpbI/AAAAAAAADzs/VXbMOT43v_o/SPI_1434_thumb%25255B1%25255D.jpg?imgmax=800",
+            "ratings": 4.8,
+            "likes": 2000
+          }
+    ]
   }
   ,
   {
@@ -15,7 +41,36 @@
     "num_of_recipes": 150,
     "likes": 3000,
     "description": "Ina Garten is an American chef, author, and television personality. She has over 40 years of experience in the culinary industry and is known for her simple yet elegant cooking style. She has hosted several cooking shows such as Barefoot Contessa and has authored several cookbooks.",
-    "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr"
+    "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr",
+    "recipes": [
+        {
+          "name":"Chingri Macher Malaikari" ,
+          "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+          "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+          "recipe_img": "https://www.licious.in/blog/wp-content/uploads/2021/06/Shutterstock_1585483462.jpg",
+          "ratings": 4.3,
+          "likes": 2000
+        },
+        {
+            "name":"Bhuna Khichuri",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://pikturenama.com/wp-content/uploads/2019/10/with-logo-Bhuni-Khichuri-4.jpg",
+            "ratings": 4.3,
+            "likes": 2000
+          },
+        {
+            "name":"Shorshe Ilish",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://lh6.ggpht.com/-luvg-6ZTOU8/Tg-n816jpbI/AAAAAAAADzs/VXbMOT43v_o/SPI_1434_thumb%25255B1%25255D.jpg?imgmax=800",
+            "ratings": 4.3,
+            "likes": 2000
+          }
+          
+            
+          
+    ]
   }
   ,
   {
@@ -25,7 +80,36 @@
     "num_of_recipes": 75,
     "likes": 2000,
     "description": "Anthony Bourdain was an American chef, author, and television personality. He had over 28 years of experience in the culinary industry and was known for his adventurous approach to food. He hosted several cooking shows such as No Reservations and Parts Unknown and authored several books.",
-    "picture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr"
+    "picture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr",
+    "recipes": [
+        {
+          "name":"Chingri Macher Malaikari" ,
+          "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+          "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+          "recipe_img": "https://www.licious.in/blog/wp-content/uploads/2021/06/Shutterstock_1585483462.jpg",
+          "ratings": 4.3,
+          "likes": 2000
+        },
+        {
+            "name":"Bhuna Khichuri",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://pikturenama.com/wp-content/uploads/2019/10/with-logo-Bhuni-Khichuri-4.jpg",
+            "ratings": 4.6,
+            "likes": 2000
+          },
+        {
+            "name":"Shorshe Ilish",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://lh6.ggpht.com/-luvg-6ZTOU8/Tg-n816jpbI/AAAAAAAADzs/VXbMOT43v_o/SPI_1434_thumb%25255B1%25255D.jpg?imgmax=800",
+            "ratings": 4.3,
+            "likes": 2000
+          }
+          
+            
+          
+    ]
   }
   ,
   {
@@ -35,7 +119,36 @@
     "num_of_recipes": 100,
     "likes": 4000,
     "description": "Julia Child was an American chef, author, and television personality. She had over 50 years of experience in the culinary industry and is credited with bringing French cuisine to the American public. She hosted several cooking shows such as The French Chef and authored several cookbooks.",
-    "picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr"
+    "picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr",
+    "recipes": [
+        {
+          "name":"Chingri Macher Malaikari" ,
+          "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+          "ingredients":["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+          "recipe_img": "https://www.licious.in/blog/wp-content/uploads/2021/06/Shutterstock_1585483462.jpg",
+          "ratings": 4.5,
+          "likes": 2000
+        },
+        {
+            "name":"Bhuna Khichuri",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://pikturenama.com/wp-content/uploads/2019/10/with-logo-Bhuni-Khichuri-4.jpg",
+            "ratings": 4.3,
+            "likes": 2000
+          },
+        {
+            "name":"Shorshe Ilish",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://lh6.ggpht.com/-luvg-6ZTOU8/Tg-n816jpbI/AAAAAAAADzs/VXbMOT43v_o/SPI_1434_thumb%25255B1%25255D.jpg?imgmax=800",
+            "ratings": 4.0,
+            "likes": 2000
+          }
+          
+            
+          
+    ]
   }
   ,
   {
@@ -45,7 +158,37 @@
     "num_of_recipes": 300,
     "likes": 6000,
     "description": "Jamie Oliver is a British chef, restaurateur, and television personality. He has over 25 years of experience in the culinary industry and is known for his focus on healthy and sustainable cooking. He has hosted several cooking shows such as The Naked Chef and authored several cookbooks.",
-    "picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr"
+    "picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr",
+    
+    "recipes": [
+        {
+          "name":"Chingri Macher Malaikari" ,
+          "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+          "ingredients":  ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+          "recipe_img": "https://www.licious.in/blog/wp-content/uploads/2021/06/Shutterstock_1585483462.jpg",
+          "ratings": 4.3,
+          "likes": 2000
+        },
+        {
+            "name":"Bhuna Khichuri",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://pikturenama.com/wp-content/uploads/2019/10/with-logo-Bhuni-Khichuri-4.jpg",
+            "ratings": 4.3,
+            "likes": 2000
+          },
+        {
+            "name":"Shorshe Ilish",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://lh6.ggpht.com/-luvg-6ZTOU8/Tg-n816jpbI/AAAAAAAADzs/VXbMOT43v_o/SPI_1434_thumb%25255B1%25255D.jpg?imgmax=800",
+            "ratings": 4.3,
+            "likes": 2000
+          }
+          
+            
+          
+    ]
   }
   ,
   {
@@ -55,6 +198,36 @@
     "num_of_recipes": 120,
     "likes": 2500,
     "description": "Nigella Lawson is a British chef, author, and television personality. She has over 20 years of experience in the culinary industry and is known for her indulgent and comforting cooking style. She has hosted several cooking shows such as Nigella Bites and authored several cookbooks.",
-    "picture": "https://img.freepik.com/free-photo/cheerful-young-cook-uniform-holding-salad-pointing-you_171337-5344.jpg?size=626&ext=jpg&uid=R26452579&ga=GA1.2.1311615040.1680220332&semt=robertav1_2_sidr"
+    "picture": "https://img.freepik.com/free-photo/female-chef-pointing-finger-smartphone-white-uniform-looking-cheerful-front-view_176474-13431.jpg?w=1060&t=st=1683057123~exp=1683057723~hmac=eb0c7646ac82502e08e82558552a10f96f448c9ae055eef91c7ece5763c3df33",
+    
+    "recipes": [
+        {
+          "name":"Chingri Macher Malaikari" ,
+          "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+          "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+          "recipe_img": "https://www.licious.in/blog/wp-content/uploads/2021/06/Shutterstock_1585483462.jpg",
+          "ratings": 4.3,
+          "likes": 2000
+        },
+        {
+            "name":"Bhuna Khichuri",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients": ["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://pikturenama.com/wp-content/uploads/2019/10/with-logo-Bhuni-Khichuri-4.jpg",
+            "ratings": 4.3,
+            "likes": 2000
+          },
+        {
+            "name":"Shorshe Ilish",
+            "method_of_cooking": "1. Fry prawns in oil until cooked. 2. In a separate pan, mix coconut milk, ginger paste, garlic paste, red chili powder, turmeric powder, and salt. 3. Add prawns to the pan and simmer for 5 minutes. Serve hot with rice.",
+            "ingredients":["1. prawns,", " 2. coconut milk,", " 3. ginger paste,", " 4. garlic paste,", " 5. red chili powder,", " 6. turmeric powder,", " 7. salt"],
+            "recipe_img": "https://lh6.ggpht.com/-luvg-6ZTOU8/Tg-n816jpbI/AAAAAAAADzs/VXbMOT43v_o/SPI_1434_thumb%25255B1%25255D.jpg?imgmax=800",
+            "ratings": 4.3,
+            "likes": 2000
+          }
+          
+            
+          
+    ]
   }]
   
